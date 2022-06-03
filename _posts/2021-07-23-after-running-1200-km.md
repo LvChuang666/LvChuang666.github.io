@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  跑了1200公里，分享一些感想
-categories: [running]
+categories: [Running]
 excerpt: 1 不要受伤 2 力量练习 3 设备没那么重要 4 跳绳 5 跑步时的空白 6 痛苦之于跑者
 ---
 
