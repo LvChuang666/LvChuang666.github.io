@@ -1,8 +1,8 @@
 ---
-layout:post
-title:写在第一次马拉松之前
+layout: post
+title: 写在第一次马拉松之前
 categories: [Running]
-excerpt:今天是我的第一次马拉松，写下一些文字，给自己加油。预祝自己一次美好的体验。
+excerpt: 今天是我的第一次马拉松，写下一些文字，给自己加油。预祝自己一次美好的体验。
 ---
 
 
