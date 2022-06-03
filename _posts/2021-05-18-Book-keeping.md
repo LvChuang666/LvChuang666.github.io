@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  聊聊记账这件事
-categories: [Invest,Life]
+categories: [Investing,Life]
 excerpt: 记账这事儿，不是要过“极俭”的生活。
 ---
 
