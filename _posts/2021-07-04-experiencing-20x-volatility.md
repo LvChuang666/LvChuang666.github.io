@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一年20倍的波动，会是什么样的经历？
-categories: [Invest]
+categories: [Investing]
 excerpt: 心态随着价格波动。价格下跌，心态容易崩；价格上涨，心态同样可能崩。
 ---
 
