@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 聊聊消费观
-categories:[Investing, Life]
-excerpt: 
+categories: [Investing, Life]
+excerpt: 日常消费大致可以分成三类：生活必需的消费，改善生活的消费，关乎生产、创造价值的消费，每种消费都有对应的原则。
 ---
 
 之前有篇文章聊了关于记账的话题。这篇文章接着**聊聊消费这件事**。
