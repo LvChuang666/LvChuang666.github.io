@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Berlin Marathon Recap
-categories: [Running]
+categories: [Running, english_post]
+excerpt: Some summaries and lessons learned from my second marathon experience.
 ---
 
 I completed the berlin marathon last week Sunday. 
